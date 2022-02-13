@@ -10,6 +10,27 @@ h2 {
   font-size:36px;
 }
 
+h3 {
+  color:black;
+  font-family:garamond;
+  font-size:20px;
+}
+h4 {
+  color:black;
+  font-family:garamond;
+  font-size:20px;
+}
+h6 {
+  color:black;
+  font-family:garamond;
+  font-size:20px;
+}
+h5 {
+  color:black;
+  font-family:garamond;
+  font-size:20px;
+}
+
 p{
   color.green;
   font-family:verdana;
