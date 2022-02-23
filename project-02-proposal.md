@@ -1,0 +1,1 @@
+For project 2 I would like to create something that brings reaction to the audience. With this in mind I plan on creating a virtual splatter art or something in that relm to try to startle the viewer when they are watching the zoom video. 
