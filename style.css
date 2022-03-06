@@ -35,7 +35,7 @@ h5 {
   text-align: center;
 }
 
-p1{
+p{
   color: #340E6E;
   font-family:verdana;
   font-size:12px;
@@ -45,35 +45,21 @@ p1{
   padding:5px;
 }
 
-{
-  p2{
-  color: #10042E;
+p3 {
+  color: #011a03;
   font-family:verdana;
-  font-size:13px;
+  font-size:14px;
   text-align: center;
-  line-height:4em;
+  line-height:2em;
   background-color:white;
-  padding:4px;
-    
-}  
-  
-p3{
-  color: #340E6E;
+  padding:5px;
+}
+p4 {
+  color: #0c011c;
   font-family:Comic Sans;
   font-size:14px;
   text-align: center;
-  line-height:4em;
+  line-height:3em;
   background-color:white;
-  padding:4px;
-}  
-
-{
-    p4{
-  color: #10042e;
-  font-family:verdana;
-  font-size:13px;
-  text-align: center;
-  line-height:4em;
-  background-color:white;
-  padding:4px;
+  padding:5px;
 }
