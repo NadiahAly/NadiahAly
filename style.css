@@ -8,6 +8,7 @@ h2 {
   color:black;
   font-family:garamond;
   font-size:36px;
+   text-align: center;
 }
 
 h3 {
@@ -39,7 +40,7 @@ p{
   color: #340E6E;
   font-family:verdana;
   font-size:12px;
-  text-align: center;
+  text-align:center;
   line-height:2em;
   background-color:white;
   padding:5px;
