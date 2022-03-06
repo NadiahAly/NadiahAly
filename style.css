@@ -35,12 +35,24 @@ h5 {
   text-align: center;
 }
 
-p{
+p1{
   color: #340E6E;
   font-family:verdana;
-  font-size:10px;
+  font-size:12px;
   text-align: center;
   line-height:2em;
   background-color:white;
   padding:5px;
 }
+
+{
+  p2{
+  color: #10042e;
+  font-family:verdana;
+  font-size:13px;
+  text-align: center;
+  line-height:4em;
+  background-color:white;
+  padding:4px;
+    
+}    
